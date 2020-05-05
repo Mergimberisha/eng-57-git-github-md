@@ -28,7 +28,8 @@ It can also create seperate branches (or universes) to allow us to experiment.
 0) git init
 0) git status
 0) git logs
-0) git commit
+0) git add (You need to add the current changes before you can commit them)
+0) git commit (This creates a save point)
 
 I have made some changes
 
