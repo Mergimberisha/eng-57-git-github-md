@@ -28,6 +28,9 @@ It can also create seperate branches (or universes) to allow us to experiment.
 0) git init
 0) git status
 0) git logs
+0) git commit
+
+I have made some changes
 
 1) git add <file>
 2) git commit -m 'meaningful message'
